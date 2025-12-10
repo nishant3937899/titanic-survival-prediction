@@ -57,7 +57,7 @@ The following models were trained and evaluated:
 - Random Forest Regressor  
 - AdaBoost Regressor  
 
-> Evaluation metrics were used to determine the **Linear Regression Model**.  
+>Among the models tested, the **Linear Regression Model** performed the best based on **R² Score** .  
 
 ---
 
